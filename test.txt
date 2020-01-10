@@ -3,7 +3,8 @@
 修改了测试文件
 hello GitHub
 
-git pull --rebase origin master (更新代码)
+更新代码
+git pull --rebase origin master 
 
 提交代码
 git add *
