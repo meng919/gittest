@@ -1,4 +1,6 @@
-hello github
+﻿hello github
 测试文件
 修改了测试文件
 hello GitHub
+
+git pull --rebase origin master (更新代码)
