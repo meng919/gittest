@@ -4,3 +4,8 @@
 hello GitHub
 
 git pull --rebase origin master (更新代码)
+
+提交代码
+git add *
+git commit -m "代码说明"
+git push origin master
